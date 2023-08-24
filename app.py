@@ -5,6 +5,7 @@ from tqdm import tqdm
 from typing import List
 from azure.storage.blob import BlobServiceClient, BlobClient, BlobType,ContentSettings
 
+
 # Importações de bibliotecas internas
 from id import Novo
 from pdf import ContarPaginas
